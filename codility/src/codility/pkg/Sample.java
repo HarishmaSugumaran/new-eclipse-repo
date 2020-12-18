@@ -11,10 +11,15 @@ public class Sample {
 			for(int n=1;n<=m;n++) {
 				System.out.print(m);
 			}
+<<<<<<< HEAD
 			System.out.println("hie ");
+=======
+			System.out.println("hello  ");
+>>>>>>> branch 'master' of https://github.com/HarishmaSugumaran/new-eclipse-repo.git
 		}
 
 
 	}
 
 }
+////////
