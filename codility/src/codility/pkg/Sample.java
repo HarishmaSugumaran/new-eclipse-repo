@@ -11,10 +11,11 @@ public class Sample {
 			for(int n=1;n<=m;n++) {
 				System.out.print(m);
 			}
-			System.out.println(" ");
+			System.out.println("hello  ");
 		}
 
 
 	}
 
 }
+////////
